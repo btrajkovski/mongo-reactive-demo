@@ -2,7 +2,14 @@
 
 Project using Spring Boot with Webflux with Spring Data Mongo reactive
 
+## Prerequisites
+- Java
+- Maven
+- Docker
+- Docker-compose
+
 ## How to start
+- Start MongoDB with `docker-compose up -d`
 - Run `main` in `MongoReactiveDemoApplication`
 
 ## Endpoints
